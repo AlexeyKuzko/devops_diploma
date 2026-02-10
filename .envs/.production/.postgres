@@ -1,7 +1,0 @@
-# PostgreSQL
-# ------------------------------------------------------------------------------
-POSTGRES_HOST=postgres
-POSTGRES_PORT=5432
-POSTGRES_DB=demo_for_diploma
-POSTGRES_USER=WSDcLufQpHukHYgcMgserBQIwuCwsOPm
-POSTGRES_PASSWORD=wpjFx0FETr125yj1X2uosya9lmsAf7JVDtqb5RbWZrtj6vojeIVRclvyQYeZnQnb
