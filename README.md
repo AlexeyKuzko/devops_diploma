@@ -1,4 +1,4 @@
-# Django Release Engineering
+# DevOps Master's Degree Diploma Repository
 
 Дипломный проект DevOps-магистратуры: release engineering для учебной Django LMS
 
